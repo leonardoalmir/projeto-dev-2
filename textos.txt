@@ -1,0 +1,46 @@
+@everyone 
+
+textos dos personagens pra quem já quiser colocar
+
+Tony Chopper
+
+Esta pequena rena ganhou a habilidade de mudar sua forma e de pensar como humanos após comer a fruta Hito Hito no Mi. Chopper é um valioso membro da tripulação dos Piratas do Chapéu de Palha, atuando como médico da tripulação.
+
+Roronoa Zoro
+
+Primeiro pirata (segundo membro se contarmos com Luffy) a se juntar à tripulação de Piratas do Chapéu de Palha, Zoro aceitou o convite de Luffy após o capitão salvar sua vida.
+
+Monkey D. Luffy
+
+Luffy do Chapéu de Palha", como ficou conhecido, é o protagonista do anime, e o fundador e capitão da tripulação Piratas do Chapéu de Palha. Desde muito jovem, tem como seu maior sonho um dia encontrar o lendário tesouro de Gol D. Roger, para se tornar o novo Rei dos Piratas.
+
+Nami
+
+Uma órfã de guerra, ainda criança Nami foi adotada por Bell-mère, uma mulher da Marinha. Enquanto crescia ao lado de sua irmã adotiva Nojiko, Nami já demonstrava sua paixão por desenhar mapas, sonhando em um dia fazer o mapa de todo o mundo.
+
+Sanji
+
+Também conhecido como "Perna Negra" Sanji, este pirata foi o quinto a integrar a tripulação de Luffy. Suas ações como pirata lhe renderam a terceira maior recompensa entre os membros do Chapéu de Palha, além de atuar como cozinheiro oficial do grupo.
+
+@everyone  
+TEXTO COMENTADO DO QUE PRECISAMOS FAZER:
+
+```js
+/* 
+  O que precisamos fazer? - quando clicar no botão do personagem na lista temos que 
+marcar o botão como selecionado e mostrar o personagem correspondente
+
+    OBJETIVO 1 - quando clicar no botão do personagem na lista, marcar o botao como selecionado 
+        passo 1 - pegar os botões no JS pra poder verificar quando o usuário clicar em cima de um deles
+        passo 2 - adicionar a classe "selecionado" no botão que o usuário clicou
+        passo 3 - verificar se já existe um botão selecionado, se sim, devemos remover 
+a seleção dele 
+
+    OBJETIVO 2 - quando clicar no botão do personagem mostrar as informações do personagem
+        passo 1 - pegar os personagens no JS pra poder mostrar ou esconder ele
+        passo 2 - adicionar a classe "selecionado" no personagem que o usuário selecionou
+        passo 3 - verificar se já exista um personagem selecionado, se sim, devemos remover 
+a seleção dele 
+*/
+```
+
